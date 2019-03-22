@@ -12,7 +12,7 @@ GLUT
 space : game start  
 ↑→↓← : move
 
-# gimic
+# gimmick
 CLEAR: eat all cookies  
 FAILE: lose all lifes
   
