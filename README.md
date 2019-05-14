@@ -1,12 +1,12 @@
 PacMan-like_game
 ===
-game of Pac-Man like written in C
+game of Pac-Man like written in C(GLUT)
 
 # Demo
-![demo](https://user-images.githubusercontent.com/37448236/54802787-275ef380-4cb0-11e9-9b05-cd7c839a4305.gif)
+![demo](https://user-images.githubusercontent.com/37448236/57667465-8c92ed80-763e-11e9-877b-eacd38194ade.gif)
 
 # require
-GLUT
+GLUT executable env
 
 # operation
 space : game start  
